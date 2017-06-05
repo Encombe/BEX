@@ -1,4 +1,4 @@
-# BEX
-BitTorrent protocol EXtensions
+# BTX
+BitTorrent protocol eXtensions
 
 Nothing here yet
